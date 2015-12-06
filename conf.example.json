@@ -1,0 +1,9 @@
+{
+    "Db_user": "user",
+    "Db_pass": "pass",
+    "Db_name": "my_db",
+    "Db_table": "attendance",
+    "Db_host": "127.0.0.1",
+    "Db_port": "3306",
+    "Slack_api_key": "abc123"
+}
